@@ -69,13 +69,13 @@ C++          27 mins         ▓░░░░░░░░░░░░░░░░
 ![Profile Views](https://komarev.com/ghpvc/?username=digin777&color=blue)
 
 ## Find me around the web :globe_with_meridians:
-[![DEV Badge](https://img.shields.io/badge/-samujjwaal-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/diginantony)
-[![StackOverflow Badge](https://img.shields.io/badge/-daftdey-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/diginantony?tab=profile)
+[![DEV Badge](https://img.shields.io/badge/-digin777-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/diginantony)
+[![StackOverflow Badge](https://img.shields.io/badge/-digin777-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/diginantony?tab=profile)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/diginantony/)
 [![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/diginantony)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/diginantony)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/diginantony/playlists)
-[![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/diginantony/ "Find on Reddit")
+[![Reddit Badge](https://img.shields.io/badge/-u/digin777-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/diginantony/ "Find on Reddit")
 </details>
 
 
