@@ -17,9 +17,6 @@
 <a href="https://www.reddit.com/user/geekyabhi/">
   <img align="left" alt="Digin Antony Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://leetcode.com/abhisheknaiidu/">
-  <img align="left" alt="Digin Antony Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=digin777)
 
@@ -60,12 +57,25 @@ Git Config   36 mins         ▓░░░░░░░░░░░░░░░░
 C++          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
 ```
 <!--END_SECTION:waka-->
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=digin777&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <details>
 <summary>📈 My GitHub Stats</summary>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=digin777&show_icons=true&theme=gotham" alt="Digin Antony" />
+<br>
+  
+  
 
+![Profile Views](https://komarev.com/ghpvc/?username=digin777&color=blue)
+
+## Find me around the web :globe_with_meridians:
+[![DEV Badge](https://img.shields.io/badge/-samujjwaal-0A0A0A?style=flat&logo=dev.to&logoColor=white)](https://dev.to/diginantony)
+[![StackOverflow Badge](https://img.shields.io/badge/-daftdey-FE7A16?style=flat&logo=Stack%20Overflow&logoColor=white&)](https://stackoverflow.com/users/12843322/diginantony?tab=profile)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/diginantony/)
+[![Soundcloud Badge](https://img.shields.io/badge/-Soundcloud-FE5000?style=flat&logo=Soundcloud&logoColor=white)](https://soundcloud.com/diginantony)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/diginantony)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/diginantony/playlists)
+[![Reddit Badge](https://img.shields.io/badge/-u/daftdey-FF4500?style=flat&logo=Reddit&logoColor=white)](https://www.reddit.com/user/diginantony/ "Find on Reddit")
 </details>
 
 
